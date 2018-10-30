@@ -15,7 +15,7 @@ dependencies {
 }
 
 task deltaCrew {
-  println 'Hello Delta'
+  println 'Hello test'
   }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
